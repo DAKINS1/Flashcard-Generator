@@ -1,6 +1,4 @@
 function ClozeCard (text, cloze) {
-     text = text;
-     cloze = cloze;
 
     // throw or log an error when the cloze deletion does not appear in the input text.
     if (!text.includes(cloze)) {
