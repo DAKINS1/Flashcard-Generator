@@ -1,0 +1,53 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "Who is an anonymous England-based graffiti artist, political activist and film director of unverified identity?",
+    "back": "Banksy"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Tracey Emin is an English artist whose work is often called 'confessional' and whose most famous work is entitled 'Everyone I Have Ever Slept With'.",
+    "cloze": "Tracey Emin"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Which Japanese installation artist currently has an installation at The Broad entitled 'Infinity Mirrored Room' which houses a mirror-lined chamber with dazzling and a seemingly endless LED light display?",
+    "back": "Yayoi Kusama"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Barbara Kruger is an American conceptual artist and collagist whose work consists of black and white photographs overlaid with declarative captions that address cultural constructions of power, identity, and sexuality.",
+    "cloze": "Barbara Kruger"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who is famous for a series of artworks in which dead animals (including a shark, a sheep and a cow) are preserved—sometimes having been dissected—in formaldehyde?",
+    "back": "Damien Hirst"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Jeff Koons is an American artist known for working with popular culture subjects and reproductions of objects such as a balloon animals that are produced in stainless steel with a mirror-finish.",
+    "cloze": "Jeff Koons"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who is an American painter and a major figure in the abstract expressionist movement well known for his unique style of drip painting?",
+    "back": "Jackson Pollock"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Shepard Fairey is an American contemporary street artist, graphic designer, activist, illustrator and founder of OBEY Clothing who emerged from the skateboarding scene and widely known for his Obama Hope poster image.",
+    "cloze": "Shepard Fairey"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What Japanese artist provided the cover artwork for rapper Kanye West’s album Graduation and directed an animated music video for West’s song Good Morning?",
+    "back": "Takashi Murakami"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Keith Haring was an American artist and social activist whose 'doodle' art work responded to the New York City street culture of the 1980s by expressing concepts of birth, death, sexuality, and war.",
+    "cloze": "Keith Haring"
+  }
+
+]
